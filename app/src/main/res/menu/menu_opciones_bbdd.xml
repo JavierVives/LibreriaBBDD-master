@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+        <item
+            android:id="@+id/itemModificar"
+            android:title="Insertar/Modificar/Borrar Libro" />
+
+        <item
+            android:id="@+id/itemConsultar"
+            android:title="Consultar base de datos" />
+
+        <item
+            android:id="@+id/itemUsers"
+            android:title="Usuarios de la libreria" />
+
+        <item
+            android:id="@+id/itemContacto"
+            android:title="Contacto con la libreria" />
+
+
+</menu>
